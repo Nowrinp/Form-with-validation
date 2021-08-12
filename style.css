@@ -56,13 +56,13 @@ body :-ms-input-placeholder {
 a,
 a:active,
 a:focus {
-  color: #00b894;
+  color: #134137;
   text-decoration: none;
 }
 /* wrapping up */
 .wrapper {
-  background: #50a3a2;
-  background: linear-gradient(to bottom right, #016866 0%, #53e3a6 100%);
+  background: #134137;
+  background: linear-gradient(to bottom right, black 0%,#363636 100%);
   padding: 15px;
   overflow: hidden;
 }
@@ -112,7 +112,7 @@ form input:focus,
 form textarea:focus {
   background-color: white;
   width: 300px;
-  color: #53e3a6;
+  color: #394d47;
 }
 .button {
   text-align: center;
@@ -136,7 +136,7 @@ form button {
   background-color: white;
   border: 0;
   padding: 10px 15px;
-  color: #00b894;
+  color: #222927;
   border-radius: 3px;
   width: 200px;
   margin-left: -60px;
@@ -173,7 +173,7 @@ td {
   text-align: left;
 }
 th {
-  color: #2d3436;
+  color: #39806e;
   font-weight: bold;
 }
 td,
